@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编写函数不允许创建临时变量，求字符串长度.c", "编写函数不允许创建临时变量，求字符串长度.c\编写函数不允许创建临时变量，求字符串长度.c.vcxproj", "{3FBD01E2-E631-42FB-9D68-923A4EB9D0A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBD01E2-E631-42FB-9D68-923A4EB9D0A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FBD01E2-E631-42FB-9D68-923A4EB9D0A9}.Debug|Win32.Build.0 = Debug|Win32
+		{3FBD01E2-E631-42FB-9D68-923A4EB9D0A9}.Release|Win32.ActiveCfg = Release|Win32
+		{3FBD01E2-E631-42FB-9D68-923A4EB9D0A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
