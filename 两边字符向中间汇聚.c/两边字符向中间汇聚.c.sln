@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "两边字符向中间汇聚.c", "两边字符向中间汇聚.c\两边字符向中间汇聚.c.vcxproj", "{9C7B53AD-5EA4-4A67-9A86-09FE17122832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7B53AD-5EA4-4A67-9A86-09FE17122832}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C7B53AD-5EA4-4A67-9A86-09FE17122832}.Debug|Win32.Build.0 = Debug|Win32
+		{9C7B53AD-5EA4-4A67-9A86-09FE17122832}.Release|Win32.ActiveCfg = Release|Win32
+		{9C7B53AD-5EA4-4A67-9A86-09FE17122832}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
