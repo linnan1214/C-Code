@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串逆序，递归实现", "字符串逆序，递归实现\字符串逆序，递归实现.vcxproj", "{A0D4DEA7-1A58-430B-9AE9-9B51E226DDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D4DEA7-1A58-430B-9AE9-9B51E226DDEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0D4DEA7-1A58-430B-9AE9-9B51E226DDEC}.Debug|Win32.Build.0 = Debug|Win32
+		{A0D4DEA7-1A58-430B-9AE9-9B51E226DDEC}.Release|Win32.ActiveCfg = Release|Win32
+		{A0D4DEA7-1A58-430B-9AE9-9B51E226DDEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
